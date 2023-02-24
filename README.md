@@ -1,4 +1,4 @@
-### Hello, I'm Gabriele Berton, a PhD student from the [Vandal Lab](vandal.polito.it) at [Polytechnic of Turin](https://www.polito.it/) !  <img src="https://komarev.com/ghpvc/?username=gmberton" />
+### Hello, I'm Gabriele Berton, a PhD student from the [Vandal Lab](http://vandal.polito.it) at [Polytechnic of Turin](https://www.polito.it/) !  <img src="https://komarev.com/ghpvc/?username=gmberton" />
 
 **Languages and Tools:**
 <table>
