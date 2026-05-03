@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gabriele Berton's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 3298, Total Commits  : 1480, Total PRs: 18, Total Issues: 47, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 3299, Total Commits  : 1480, Total PRs: 18, Total Issues: 47, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.40906877474684;
+        stroke-dashoffset: 92.40869519096651;
       }
     }
   
