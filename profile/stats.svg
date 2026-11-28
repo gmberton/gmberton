@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Gabriele Berton&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 3741, Total Commits  : 1678, Total PRs: 173, Total Issues: 46, Contributed to (last year): 8</desc>
+        <title id="titleId">Gabriele Berton&#39;s GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 3745, Total Commits  : 1678, Total PRs: 184, Total Issues: 46, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 31.46955062504456;
+        stroke-dashoffset: 30.660831886716558;
       }
     }
   
@@ -150,7 +150,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A+
         </text>
       
         </g>
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >173</text>
+      >184</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
